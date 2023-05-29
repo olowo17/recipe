@@ -1,0 +1,23 @@
+.App{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: slategray;
+}
+.auth-container{
+    box-shadow: rgba(0, 3px, 5px, 0.02);
+    border-radius: 10px;
+    width: 400px;
+    padding: 20px;
+    margin: auto;
+}
+
+.register{
+    background-color: aqua;
+    margin-top: 20px;
+}
+
+.login{
+    background-color: slategray;
+    margin-top: 20px;
+}
